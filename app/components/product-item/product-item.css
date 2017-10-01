@@ -11,11 +11,11 @@
 .thumbnail img {
     width: 100%;
 }
-.thumbnail caption-full {
+.thumbnail .caption-full {
     padding: 9px;
     color: #333;
 }
-ratings {
+.ratings {
     color: #d17581;
     padding-left: 10px;
     padding-right: 10px;
